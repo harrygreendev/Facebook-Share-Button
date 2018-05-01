@@ -1,4 +1,4 @@
-# Facebook Share Link
+# Facebook Share
 ## Overview
 Javascript code that enable users to share a page in facebook.
 The script uses current page url and its meta title to share it in facebook. Facebook will use the user's account and will require the user to be logged-in.
